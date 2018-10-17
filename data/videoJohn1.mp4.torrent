@@ -1,0 +1,9 @@
+{
+	"info": {
+		"filename": "videoJohn1.mp4",
+		"fileLength": 248055773,
+		"pieceLength": 256000,
+		"pieces": []
+	},
+	"announce": "localhost:6789"
+}
