@@ -5,5 +5,5 @@
 		"pieceLength": 256000,
 		"pieces": []
 	},
-	"announce": "localhost:6789"
+	"announce": "157.253.205.41:6789"
 }
